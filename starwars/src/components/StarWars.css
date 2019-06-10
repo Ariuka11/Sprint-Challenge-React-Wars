@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Vollkorn');
+
+.charWrapper{
+    
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    text-shadow: 0 5px 5px rgba(0,0,0,.6);
+    color: #fff;
+}
+.charContainer{
+    width: 35%;
+    height:35vh;
+    background: rgba(0, 0, 0, 0.7);
+    margin: 10px;
+    padding: 10px;
+}
+.charHeader{
+    font-family: 'Cinzel', serif;
+	width: 100%;
+}
